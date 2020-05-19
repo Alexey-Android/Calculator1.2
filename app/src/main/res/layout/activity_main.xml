@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
 
         android:background="@color/colorPrimaryDark"
-        android:textSize="60sp"
+        android:textSize="59sp"
         android:textColor="@color/colorButton_txt"
         android:text="@string/digit"
         android:gravity="end"/>
